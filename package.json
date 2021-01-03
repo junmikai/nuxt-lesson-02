@@ -1,0 +1,19 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxt/http": "^0.6.2",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-loader": "^4.0.2",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^10.1.0"
+  }
+}
